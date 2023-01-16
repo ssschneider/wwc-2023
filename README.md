@@ -17,7 +17,7 @@ This is a landing page with what I believe is the most important information reg
 
 ## 🔗 Visit 
 
-To visit the 2023 FIFA Women's World Cup just <a href="#" target="_blank">click here</a>!
+To visit the 2023 FIFA Women's World Cup just <a href="https://wwc-2023.vercel.app/" target="_blank">click here</a>!
 
 ##  📱 Demo
 
